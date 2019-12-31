@@ -9,5 +9,5 @@ int main(int argc, char** argv) {
 /*
 	Compile & run this using the code below in your CLI:
 	
-	g++ -o helloWorld helloWorld.cpp && ./helloWorld
+	g++ -o output helloWorld.cpp && ./output
 */
