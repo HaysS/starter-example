@@ -8,11 +8,9 @@
   </a>
 </p>
 
-> A example program in C++. ;)
+> An example program in C++. ;)
 
-### 🏠 [Homepage](haysstanford.com)
-
-### ✨ [Demo](haysstanford.com)
+### ✨ [View Tutorial](haysstanford.com/blog)
 
 ## Author
 
