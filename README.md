@@ -9,6 +9,10 @@
 </p>
 
 > An example program in C++. ;)
+
+Compile & run this using the code below in your CLI:
+	
+g++ -o output helloWorld.cpp && ./output
  
 ### ✨ [View Tutorial](https://haysstanford.com/blog)
 
