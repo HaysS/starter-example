@@ -10,7 +10,7 @@
 
 > An example program in C++. ;)
 
-### ✨ [View Tutorial](haysstanford.com/blog)
+### ✨ [View Tutorial][www.haysstanford.com/blog)
 
 ## Author
 
