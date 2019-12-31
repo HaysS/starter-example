@@ -1,4 +1,4 @@
-<h1 align="center">Start Program | Hello World | C++ Implementation 👋</h1>
+<h1 align="center">Starter Program | Hello World | C++ Implementation 👋</h1>
 <p>
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
@@ -8,11 +8,11 @@
   </a>
 </p>
 
-> An example program in C++. ;)
+> Test your compiler with this example program in C++.
 
 Compile & run this using the code below in your CLI:
 	
-g++ -o output helloWorld.cpp && ./output
+`g++ -o output helloWorld.cpp && ./output`
  
 ### ✨ [View Tutorial](https://haysstanford.com/blog)
 
