@@ -9,7 +9,7 @@
 </p>
 
 > An example program in C++. ;)
-
+ 
 ### ✨ [View Tutorial](https://haysstanford.com/blog)
 
 ## Author
